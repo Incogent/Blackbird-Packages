@@ -1,6 +1,6 @@
 {
-  "expiresAt": "2026-11-08T22:18:30Z",
-  "generatedAt": "2026-10-09T22:18:30Z",
+  "expiresAt": "2026-11-08T22:23:05Z",
+  "generatedAt": "2026-10-09T22:23:05Z",
   "kind": "sourceIndex",
   "notices": [],
   "releases": [
@@ -11,9 +11,17 @@
       "releaseSha256": "4f18d68521c10a5d09d71ff4df2d09e83aa519afc58d9a5c9ec1e5d22149c20d",
       "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.android-v0.8.4-alpha.1/release.json",
       "version": "0.8.4-alpha.1"
+    },
+    {
+      "bundleId": "incogent.godot",
+      "channel": "preview",
+      "publisherId": "incogent",
+      "releaseSha256": "af222aee73fd92e5ebbfb7890f3aad3a50afb81252e0e7c87a98081fa93c79f4",
+      "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.godot-v0.8.4-alpha.1/release.json",
+      "version": "0.8.4-alpha.1"
     }
   ],
   "schemaVersion": 1,
-  "sequence": 9,
+  "sequence": 10,
   "sourceId": "incogent.core"
 }
