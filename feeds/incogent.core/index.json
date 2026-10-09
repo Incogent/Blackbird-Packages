@@ -1,6 +1,6 @@
 {
-  "expiresAt": "2026-11-08T22:26:38Z",
-  "generatedAt": "2026-10-09T22:26:38Z",
+  "expiresAt": "2026-11-08T22:29:19Z",
+  "generatedAt": "2026-10-09T22:29:19Z",
   "kind": "sourceIndex",
   "notices": [],
   "releases": [
@@ -27,9 +27,17 @@
       "releaseSha256": "0674e73c635f7e820440fa8156ce879c0e20202475fa3f60bc44a2b3601c1f70",
       "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.steam-v0.8.4-alpha.1/release.json",
       "version": "0.8.4-alpha.1"
+    },
+    {
+      "bundleId": "incogent.unity",
+      "channel": "preview",
+      "publisherId": "incogent",
+      "releaseSha256": "bd8c52ea210f788a05ddb3a0b6ca4493a71f58e9d28e0365cda041e8f2fee339",
+      "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.unity-v0.8.4-alpha.1/release.json",
+      "version": "0.8.4-alpha.1"
     }
   ],
   "schemaVersion": 1,
-  "sequence": 11,
+  "sequence": 12,
   "sourceId": "incogent.core"
 }
