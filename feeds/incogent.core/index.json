@@ -1,6 +1,6 @@
 {
-  "expiresAt": "2026-11-27T22:46:54Z",
-  "generatedAt": "2026-10-28T22:46:54Z",
+  "expiresAt": "2026-11-27T22:47:12Z",
+  "generatedAt": "2026-10-28T22:47:12Z",
   "kind": "sourceIndex",
   "notices": [],
   "releases": [
@@ -91,9 +91,17 @@
       "releaseSha256": "3af8755350fee58082e1617d94f7111aff42e988596a4c3e5d5cf6aac2d50904",
       "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.utilities-v0.8.4-alpha.1/release.json",
       "version": "0.8.4-alpha.1"
+    },
+    {
+      "bundleId": "incogent.utilities",
+      "channel": "preview",
+      "publisherId": "incogent",
+      "releaseSha256": "8b7a30341eb090e2dea178eb376415edf652f28cdf2312e1f5c6c3153268afdc",
+      "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.utilities-v0.8.5/release.json",
+      "version": "0.8.5"
     }
   ],
   "schemaVersion": 1,
-  "sequence": 19,
+  "sequence": 20,
   "sourceId": "incogent.core"
 }
