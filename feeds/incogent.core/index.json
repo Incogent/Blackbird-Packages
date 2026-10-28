@@ -1,6 +1,6 @@
 {
-  "expiresAt": "2026-11-27T22:29:42Z",
-  "generatedAt": "2026-10-28T22:29:42Z",
+  "expiresAt": "2026-11-27T22:46:02Z",
+  "generatedAt": "2026-10-28T22:46:02Z",
   "kind": "sourceIndex",
   "notices": [],
   "releases": [
@@ -27,6 +27,14 @@
       "releaseSha256": "af222aee73fd92e5ebbfb7890f3aad3a50afb81252e0e7c87a98081fa93c79f4",
       "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.godot-v0.8.4-alpha.1/release.json",
       "version": "0.8.4-alpha.1"
+    },
+    {
+      "bundleId": "incogent.godot",
+      "channel": "preview",
+      "publisherId": "incogent",
+      "releaseSha256": "46cdb18c1d0f6a9bf63b651c56a1030b953b2c2b8600ec8eee5848fca491f29a",
+      "releaseUrl": "https://github.com/Incogent/Blackbird-Packages/releases/download/incogent.godot-v0.8.5/release.json",
+      "version": "0.8.5"
     },
     {
       "bundleId": "incogent.steam",
@@ -62,6 +70,6 @@
     }
   ],
   "schemaVersion": 1,
-  "sequence": 15,
+  "sequence": 16,
   "sourceId": "incogent.core"
 }
